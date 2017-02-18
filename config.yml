@@ -1,0 +1,14 @@
+#MySQL Connection
+mysql-address: fill
+mysql-user: fill
+mysql-pass: fill
+mysql-database: fill
+
+#Refresh delay (in seconds)
+refresh-delay: 300
+
+#Leaderboard sign format
+line1: '&r[&aSkyWars&r]'
+line2: '&5{type}'
+line3: '&3{player}'
+line4: '&3{type}: {score}'
